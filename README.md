@@ -1,2 +1,2 @@
 # primer_repositorio
-Mi primer repositorio :heart:
+Mi primer repositorio
